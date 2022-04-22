@@ -1,4 +1,3 @@
-
 import random as rn
 open_ = []
 board = []
